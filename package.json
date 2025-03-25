@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/ViperClaw1/signup-form",
+  "homepage": "https://viperclaw1.github.io/signup-form/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
