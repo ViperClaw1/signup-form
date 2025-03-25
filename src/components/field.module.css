@@ -1,0 +1,25 @@
+.inputField {
+  outline: none;
+  padding: 0.6em 1.2em;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  border: none;
+  font-size: 1em;
+  font-weight: 500;
+  background-color: #aaa;
+  color: #000;
+}
+
+.inputField:focus {
+  box-shadow: 3px 7px 14px rgba(0, 0, 0, 0.4);
+}
+
+.errorLabel {
+  background-color: rgb(236, 178, 197);
+  text-align: center;
+  color: darkred;
+  font-size: 1em;
+  margin: 0 0 1rem 0;
+  padding: 0.6em 1.2em;
+  border-radius: 8px;
+}
